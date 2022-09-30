@@ -1,0 +1,30 @@
+
+if x mod 2 == 1 then
+	output ("bilangan ganjil")
+endif
+
+
+
+
+komplimen
+
+if <condition> then
+	action 1
+else
+	action 2
+endif
+
+
+
+
+
+tugas
+
+Input temp
+
+if less than or equal 0 then
+	output(ice)
+else if greater than 100 then
+	output(gas)
+else
+	output(liquid)
