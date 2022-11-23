@@ -15,6 +15,9 @@ int main()
 {
     while (true) {
         int cash, price, buyAmount;
+        cout << cash << endl;
+        cout << price << endl;
+        cout << buyAmount << endl;
         buyAmount = 0;
         cash = 5000;
         cout << "Harga Permen:";
